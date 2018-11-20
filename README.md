@@ -14,6 +14,6 @@ We made a model to tokenize office space. Instead of expansive and insecure Agen
 
 <a href="https://github.com/amadeobrands/ChainEstate/blob/DEV/art-work/Chain_Estate_v1.pdf" target="_blank"><h4>Check out some nice art-work :)</h4></a>
 
-<a href="http://chainestate.maxlava.com/" target="_blank"><h3>Check out our website for more information</h3></a>
+<a href="http://chainestate.tech" target="_blank"><h3>Check out our website for more information</h3></a>
 
 
